@@ -1,0 +1,109 @@
+Variable,Description,Notes: IDK = "I Don't Know"
+rut_orig,Student ID Number
+start_date,Date and time student opened survey
+completed_date,Date and time student closed survey
+q1,Response to Q1 on previous Post-secondary experience
+q2_tipo_1_orig,Raw instution type from survey output of choice 1 
+q2_nivel_1,Nivel of choice 1 
+q2_inst_1,Institution of choice 1 
+q2_carerra_1,Intended major at choice 1
+q2_tipo_2_orig,Raw instution type from survey output of choice 2 
+q2_nivel_2,Nivel of choice 2 
+q2_inst_2,Institution of choice 2 
+q2_carerra_2,Intended major at choice 2
+q2_tipo_3_orig,Raw instution type from survey output of choice 3 
+q2_nivel_3,Nivel of choice 3 
+q2_inst_3,Institution of choice 3 
+q2_carerra_3,Intended major at choice 3
+q3,Response to question on certainty of choices
+q4_cost_1_orig,Raw Estimated Tuition costs from survey output of choice 1 
+q4_nose_1_orig,Raw IDK indicator from survey output of tuition for choice 1 
+q4_cost_2_orig,Raw Estimated Tuition costs from survey output of choice 2 
+q4_nose_2_orig,Raw IDK indicator from survey output of tuition for choice 2 
+q4_cost_3_orig,Raw Estimated Tuition costs from survey output of choice 3 
+q4_nose_3_orig,Raw IDK indicator from survey output of tuition for choice 3 
+q5_mi_ing_1_orig,Raw Estimated Own Wages from survey output of choice 1 
+q5_mi_nose_1_orig,Raw IDK indicator from survey output of own wages for choice 1 
+q5_tip_ing_1_orig,Raw Estimated Typical Wages from survey output of choice 1 
+q5_tip_nose_1_orig,Raw IDK indicator from survey output of typical wages for choice 1 
+q5_mi_ing_2_orig,Raw Estimated Own Wages from survey output of choice 2 
+q5_mi_nose_2_orig,Raw IDK indicator from survey output of own wages for choice 2 
+q5_tip_ing_2_orig,Raw Estimated Typical Wages from survey output of choice 2 
+q5_tip_nose_2_orig,Raw IDK indicator from survey output of typical wages for choice 2 
+q5_mi_ing_3_orig,Raw Estimated Own Wages from survey output of choice 3 
+q5_mi_nose_3_orig,Raw IDK indicator from survey output of own wages for choice 3 
+q5_tip_ing_3_orig,Raw Estimated Typical Wages from survey output of choice 3 
+q5_tip_nose_3_orig,Raw IDK indicator from survey output of typical wages for choice 3 
+q6_math_orig,Raw Expected Math Test Score Score from survey output
+q6_lang_orig,Raw Expected Language Test Score Score from survey output
+search1_psu_math,Math Test Score entered for search #1
+search1_psu_lang,Language Test Score entered for search #1
+search1_area,Area entered for search #1
+search1_nivel,Nivel entered for search #1
+search1_carrer,major entered for search #1
+search1_clicked_button,Indicator for searched in search #1
+search2_psu_math,Math Test Score entered for search #2
+search2_psu_lang,Language Test Score entered for search #2
+search2_area,Area entered for search #2
+search2_nivel,Nivel entered for search #2
+search2_carrer,major entered for search #2
+search2_clicked_button,Indicator for searched in search #2
+search3_psu_math,Math Test Score entered for search #3
+search3_psu_lang,Language Test Score entered for search #3
+search3_area,Area entered for search #3
+search3_nivel,Nivel entered for search #3
+search3_carrer,major entered for search #3
+search3_clicked_button,Indicator for searched in search #3
+search4_psu_math,Math Test Score entered for search #4
+search4_psu_lang,Language Test Score entered for search #4
+search4_area,Area entered for search #4
+search4_nivel,Nivel entered for search #4
+search4_carrer,major entered for search #4
+search4_clicked_button,Indicator for searched in search #4
+search5_psu_math,Math Test Score entered for search #5
+search5_psu_lang,Language Test Score entered for search #5
+search5_area,Area entered for search #5
+search5_nivel,Nivel entered for search #5
+search5_carrer,major entered for search #5
+search5_clicked_button,Indicator for searched in search #5
+search6_psu_math,Math Test Score entered for search #6
+search6_psu_lang,Language Test Score entered for search #6
+search6_area,Area entered for search #6
+search6_nivel,Nivel entered for search #6
+search6_carrer,major entered for search #6
+search6_clicked_button,Indicator for searched in search #6
+search7_psu_math,Math Test Score entered for search #7
+search7_psu_lang,Language Test Score entered for search #7
+search7_area,Area entered for search #7
+search7_nivel,Nivel entered for search #7
+search7_carrer,major entered for search #7
+search7_clicked_button,Indicator for searched in search #7
+search8_psu_math,Math Test Score entered for search #8
+search8_psu_lang,Language Test Score entered for search #8
+search8_area,Area entered for search #8
+search8_nivel,Nivel entered for search #8
+search8_carrer,major entered for search #8
+search8_clicked_button,Indicator for searched in search #8
+search9_psu_math,Math Test Score entered for search #9
+search9_psu_lang,Language Test Score entered for search #9
+search9_area,Area entered for search #9
+search9_nivel,Nivel entered for search #9
+search9_carrer,major entered for search #9
+search9_clicked_button,Indicator for searched in search #9
+search10_psu_math,Math Test Score entered for search #10
+search10_psu_lang,Language Test Score entered for search #10
+search10_area,Area entered for search #10
+search10_nivel,Nivel entered for search #10
+search10_carrer,major entered for search #10
+search10_clicked_button,Indicator for searched in search #10
+rbd,Secondary school ID code
+female,Indicator of gender (1=Female)
+PSU_leng_2013,2013 language test score
+PSU_mate_2013,2013 math test score
+PSU_2013,Composite test score (Average)
+SIMCEMath10,10th grade Math SIMCE Score - normalized within grade & year taken
+SIMCELang10,10th grade Language SIMCE Score - normalized within grade & year taken
+mom_educ_simce,Mother's Education level from SIMCE survey
+dad_educ_simce,Fathers's Education level from SIMCE survey
+schl_type,Secondary school type
+rbdRating,Secondary school poverty rating, A = Highest Poverty E = Lowest Poverty
